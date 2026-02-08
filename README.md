@@ -94,7 +94,7 @@ HOSPITAL_ADMISSIONS/
 
 │
 
-├── admissions/ # Virtual environment (not tracked)
+├── admissions/ # Virtual environment
 
 │ ├── etc/
 
@@ -167,7 +167,7 @@ HOSPITAL_ADMISSIONS/
 
 ```bash
 git clone https://github.com/utkarshere/hospital-admissions-forecasting.git
-cd hospital_admissions-forecasting
+cd hospital_admissions_forecasting
 ```
 
 ### 2. Create and activate virtual environment
